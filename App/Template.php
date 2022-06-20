@@ -1,5 +1,5 @@
 <?php
-namespace ViewEnginePHP\APP;
+namespace ViewEnginePHP\App;
 
 class Template{
     public $variables = [];
